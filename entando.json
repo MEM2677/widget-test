@@ -1,0 +1,9 @@
+{
+    "microservices": [],
+    "microfrontends": [],
+    "svc": [],
+    "name": "test-widget",
+    "version": "0.0.8",
+    "description": "Simple configurable MFE",
+    "type": "bundle"
+}

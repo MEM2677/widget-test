@@ -1,0 +1,10 @@
+descriptorVersion: v5
+name: child_navigation
+type: widget
+titles:
+  en: Logic menu navigation
+  it: Menu logico navigazione
+group: free
+parentName: parent_navigation
+paramsDefaults:
+  navSpec: code(homepage)
